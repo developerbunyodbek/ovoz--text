@@ -1,0 +1,28 @@
+body {
+    background-color: #504d4d;
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+
+#gapir {
+    padding: 25px 40px;
+    border: 1px solid #fff;
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+}
+
+#gapir:hover {
+    background-color: #fff;
+    color: #504d4d;
+}
+
+#natija {
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 25px;
+}
