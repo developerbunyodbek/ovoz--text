@@ -1,2 +1,1 @@
-# ovoz--text
-https://zapis.netlify.app/
+# ovoz-text
